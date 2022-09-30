@@ -3,6 +3,6 @@ node expoter auto install
 
 
 ```
-wget https://raw.githubusercontent.com/anirbandutta9/docker_auto_install/master/docker.sh && chmod +x docker.sh && ./docker.sh
+wget https://raw.githubusercontent.com/anirbandutta9/node-expoter-auto-install/master/nodeinstall.sh && chmod +x nodeinstall.sh && ./nodeinstall.sh
 
 ```
